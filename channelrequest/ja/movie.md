@@ -1,5 +1,5 @@
 ## MOVIE
-<video>
+<video controls>
   <source src="../../movie/page/ChannelRequest/movie01.webm">
   <source src="../../movie/page/ChannelRequest/movie01.mp4">
 </video>

@@ -1,2 +1,2 @@
 # landing-pages
-For fresh landing pages
+For FRESH! landing pages

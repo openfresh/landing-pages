@@ -1,0 +1,19 @@
+{
+  "name": "landing-pages",
+  "version": "1.0.0",
+  "description": "For fresh landing pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openfresh/landing-pages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/openfresh/landing-pages/issues"
+  },
+  "homepage": "https://github.com/openfresh/landing-pages#readme"
+}

@@ -1,7 +1,7 @@
 ## MOVIE
 <video>
-  <source source="../../../public/movie/page/ChannelRequest/movie01.webm">
-  <source source="../../../public/movie/page/ChannelRequest/movie01.mp4">
+  <source src="../../../public/movie/page/ChannelRequest/movie01.webm">
+  <source src="../../../public/movie/page/ChannelRequest/movie01.mp4">
 </video>
 
 ### 町のすし屋のまな板ライブ

@@ -7,4 +7,4 @@
 ### 町のすし屋のまな板ライブ
 #### たつ郎寿司
 
-<a href="https://freshlive.tv/taturousushi" target="_blank" />チャンネルページ<img src="../../img/page/ChannelRequest/icon_share.png" alt="jump" /></a>
+<a href="https://freshlive.tv/taturousushi" target="_blank" />チャンネルページ<img src="https://hayabusa.io/amebafresh-misc/uploads/channel-request/icon_share.png" alt="jump" /></a>

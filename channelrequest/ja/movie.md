@@ -1,8 +1,5 @@
 ## MOVIE
-<video controls>
-  <source src="../../movie/page/ChannelRequest/movie01.webm">
-  <source src="../../movie/page/ChannelRequest/movie01.mp4">
-</video>
+<div style="position:relative;max-width:853px"><div style="padding-bottom:56.25%" role="presentation"></div><iframe style="position:absolute;top:0;left:0;width:100%;height:100%" src="https://freshlive.tv/embed/94086" frameborder="0" allowfullscreen></iframe></div>
 
 ### 町のすし屋のまな板ライブ
 #### たつ郎寿司

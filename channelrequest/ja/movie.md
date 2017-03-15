@@ -1,6 +1,6 @@
 ## MOVIE
 
-<video id="fresh" controls>
+<video id="fresh__movie" controls>
 <source src="https://hayabusa.io/amebafresh-misc/uploads/channel-request/movie01.webm">		
 <source src="https://hayabusa.io/amebafresh-misc/uploads/channel-request/movie01.webm">		
 </video>

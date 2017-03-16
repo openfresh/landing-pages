@@ -23,3 +23,10 @@
 <p><span>女性に人気の</span><br /><span>イケボゲーム実況者</span></p>
 </a>
 </li>
+<li>
+<a href="http://daily.freshlive.tv/posts/2079841?categoryIds=509145" target="_blank">
+<img src="https://hayabusa.io/amebafresh-misc/uploads/channel-request/interview_4.png" alt="佃煮のりおさん" />
+<h3>佃煮のりおさん</h3>
+<p><span>ラブコメディマンガ</span><br /><span>『ひめゴト』の作者</span></p>
+</a>
+</li>

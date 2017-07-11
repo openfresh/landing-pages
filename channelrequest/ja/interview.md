@@ -3,30 +3,28 @@
 
 <ul>
 <li>
-<a href="http://daily.freshlive.tv/posts/2043823?categoryIds=509145" target="_blank">
-<img src="https://hayabusa.io/amebafresh-misc/uploads/channel-request/interview_1.png" alt="NHGさん" />
-<h3>NHGさん</h3>
-<p><span>学生ながら</span><br /><span>日本屈指のFPSプレイヤー</span></p>
+<a href="https://daily.freshlive.tv/posts/2133188" target="_blank">
+<img src="https://hayabusa.io/amebafresh-misc/uploads/channel-request/interview_5.png" alt="NHGさん" />
+<h3>與真司郎（AAA）</h3>
+<p><span>SHINJIRO channel</span></p>
 </a>
 </li>
 <li>
-<a href="http://daily.freshlive.tv/posts/2040011?categoryIds=509145" target="_blank">
-<img src="https://hayabusa.io/amebafresh-misc/uploads/channel-request/interview_2.png" alt="オロナインさん" />
-<h3>オロナインさん</h3>
-<p><span>実況界の</span><br /><span>ちょい悪おやじ</span></p>
+<a href="https://daily.freshlive.tv/posts/2247499" target="_blank">
+<img src="https://hayabusa.io/amebafresh-misc/uploads/channel-request/interview_6.png" alt="オロナインさん" />
+<h3>水嶋ヒロ</h3>
+<p>
+<span>HMC（Hiro Mizushima</span>
+<br>
+<span>Channel）</span>
+</p>
 </a>
 </li>
 <li>
-<a href="http://daily.freshlive.tv/posts/2028338?categoryIds=509145" target="_blank">
-<img src="https://hayabusa.io/amebafresh-misc/uploads/channel-request/interview_3.png" alt="ワタさん" />
-<h3>ワタさん</h3>
-<p><span>女性に人気の</span><br /><span>イケボゲーム実況者</span></p>
+<a href="https://daily.freshlive.tv/posts/2273594" target="_blank">
+<img src="https://hayabusa.io/amebafresh-misc/uploads/channel-request/interview_7.png" alt="ワタさん" />
+<h3>KEN THE 390 / MC正社員</h3>
+<p><span>超戦極TV</span></p>
 </a>
 </li>
-<li>
-<a href="http://daily.freshlive.tv/posts/2079841?categoryIds=509145" target="_blank">
-<img src="https://hayabusa.io/amebafresh-misc/uploads/channel-request/interview_4.png" alt="佃煮のりおさん" />
-<h3>佃煮のりおさん</h3>
-<p><span>ラブコメディマンガ</span><br /><span>『ひめゴト』の作者</span></p>
-</a>
-</li>
+</ul>
